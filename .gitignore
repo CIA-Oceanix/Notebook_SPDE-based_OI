@@ -1,3 +1,7 @@
 /datasets/*
 /.ipynb_checkpoints/*
 /spplots/*
+/*sh
+/*bib
+/*txt
+/*Rmd
